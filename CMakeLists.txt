@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.15)
+project(OpnVM_example VERSION 0.1.0 LANGUAGES CXX)
+option(BUILD_SHARED_LIBS "Build libraries as shared" OFF)
+add_subdirectory(lib)
+add_subdirectory(example)

@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/dev/OpnVM/build/cmake_install.cmake",
+		"C:/dev/OpnVM/build/lib/cmake_install.cmake",
+		"C:/dev/OpnVM/build/example/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

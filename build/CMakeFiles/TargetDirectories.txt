@@ -1,0 +1,7 @@
+C:/dev/OpnVM/build/CMakeFiles/INSTALL.dir
+C:/dev/OpnVM/build/CMakeFiles/ALL_BUILD.dir
+C:/dev/OpnVM/build/CMakeFiles/ZERO_CHECK.dir
+C:/dev/OpnVM/build/lib/CMakeFiles/OpnVM.dir
+C:/dev/OpnVM/build/lib/CMakeFiles/INSTALL.dir
+C:/dev/OpnVM/build/example/CMakeFiles/example.dir
+C:/dev/OpnVM/build/example/CMakeFiles/INSTALL.dir
